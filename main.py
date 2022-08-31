@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Main execution script that runs the project creation tool end to end.
 """
